@@ -1,9 +1,6 @@
 # Tile-Swapping Game
 
-- ⬛🟨⬛⬛
-- 🟧🟨⬛🟨
-- 🟨⬛🟨🟧
-- 🟨🟨🟧🟧
+<p align="center"><img width="80%" src="tile-game.png"/></p>
 
 A remake of the HIT mobile game "2048", recreated in Java using the Swing library
 - Use the arrow keys ⬆️⬅️⬇️➡️ to direct all the tiles up, left, down, or right!
